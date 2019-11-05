@@ -1,3 +1,3 @@
 # chromebook-tips
 
-[Wiki](wiki)見ましょう
+[Wiki](https://github.com/ytakio/chromebook-tips/wiki)見ましょう
